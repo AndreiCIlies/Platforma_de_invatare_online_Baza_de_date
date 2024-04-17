@@ -2,6 +2,7 @@
 Bază de date pentru gestiunea unei platforme de învățare online realizată în PostgreSQL
 
 Acest proiect a fost realizat pentru cursul de Baze de date.
+
 Coechipieri: Ilieș Andrei-Cristian, Macovei Alexandru-Fabian
 
 Acest repository conține:
